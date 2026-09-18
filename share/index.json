@@ -1,7 +1,21 @@
 {
   "version": 1,
-  "updatedAt": 1789724031388,
+  "updatedAt": 1789724135035,
   "cards": [
+    {
+      "id": "c-mu6rjeje-fe32b24d-38f2-4a43-9896-defb47a5d5b5",
+      "title": "asa",
+      "target": "https://duocphamideco.github.io/bangbaogia/",
+      "description": "aaa",
+      "url": "https://duocphamideco.github.io/anh-lien-ket/share/c-mu6rjeje-fe32b24d-38f2-4a43-9896-defb47a5d5b5/index.html",
+      "image": "https://duocphamideco.github.io/anh-lien-ket/share/c-mu6rjeje-fe32b24d-38f2-4a43-9896-defb47a5d5b5/image.jpg",
+      "width": 1080,
+      "height": 1080,
+      "createdAt": 1789724132186,
+      "status": "committed",
+      "hidden": false,
+      "commit": "05752cb61696d51f67f67b1826b8d47858f24f89"
+    },
     {
       "id": "c-mu6rf2b5-c43100c9-1f0c-4d96-8572-9ef52f93d5f3",
       "title": "asa",
